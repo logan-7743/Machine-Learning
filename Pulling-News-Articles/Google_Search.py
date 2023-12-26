@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 from newsapi import NewsApiClient
 
 # Initialize NewsApiClient with your API key
-api_key = '20ebbdf0d41d43b390e9ba0468838839'  # Replace with your actual NewsAPI key
+api_key = ''  # Replace with your actual NewsAPI key
 newsapi = NewsApiClient(api_key=api_key)
 
 
