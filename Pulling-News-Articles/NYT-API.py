@@ -7,7 +7,7 @@ so I think it's poor UI/UX with a small community.
 import requests
 
 # Replace 'YOUR_API_KEY' with your actual New York Times API key
-api_key = 'jGoQc9ZpDv4KJqDJZzylhu46DoMvYLWj'
+api_key = ''
 
 # Example search query parameters
 search_query = 'Apple'  # Example search query for articles related to Apple
